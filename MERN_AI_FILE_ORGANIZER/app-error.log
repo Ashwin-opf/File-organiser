@@ -1,0 +1,46 @@
+{"level":"error","message":"Error reading directory: Error: ENOENT: no such file or directory, scandir '/Users/mock/Documents/TestFolder'","service":"file-organizer-backend","timestamp":"2026-02-12 10:13:22"}
+{"level":"error","message":"Uncaught Exception: write EPIPE","service":"file-organizer-backend","timestamp":"2026-02-13 09:18:08"}
+{"level":"error","message":"Uncaught Exception: write EPIPE","service":"file-organizer-backend","timestamp":"2026-02-13 09:35:29"}
+{"level":"error","message":"Safe move failed for C:\\Users\\tamil\\OneDrive\\Documents\\Ghost of Tsushima DIRECTOR'S CUT\\Ghost of Tsushima DIRECTOR'S CUT.log: UNKNOWN: unknown error, read","service":"file-organizer-backend","timestamp":"2026-03-04 16:36:31"}
+{"level":"error","message":"Move failed for C:\\Users\\tamil\\OneDrive\\Documents\\Ghost of Tsushima DIRECTOR'S CUT\\Ghost of Tsushima DIRECTOR'S CUT.log: UNKNOWN: unknown error, read","service":"file-organizer-backend","timestamp":"2026-03-04 16:36:31"}
+{"level":"error","message":"Stats error: EPERM: operation not permitted, scandir 'G:\\g volume\\WindowsApps'","service":"file-organizer-backend","timestamp":"2026-03-04 16:44:12"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-04 20:14:59"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-04 20:17:27"}
+{"level":"error","message":"Inference failed for app_log.log: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:24:21"}
+{"level":"error","message":"Inference failed for tax_return.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:24:21"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:24:21"}
+{"level":"error","message":"Inference failed for app_log.log: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:25:24"}
+{"level":"error","message":"Inference failed for tax_return.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:25:24"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:25:24"}
+{"level":"error","message":"Inference failed for app_log.log: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Inference failed for database_dump.sql: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Inference failed for meeting_notes.md: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Inference failed for passwords.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Inference failed for project_budget.csv: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Inference failed for tax_return.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-04 20:28:09"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-05 09:31:12"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-05 09:31:31"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-05 09:37:03"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-05 09:39:44"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-05 09:42:20"}
+{"level":"error","message":"Uncaught Exception: Error: Error attempting to read image.","service":"file-organizer-backend","timestamp":"2026-03-05 09:44:44"}
+{"level":"error","message":"OCR/Text Extraction failed for G:\\pro\\file org copy\\MERN_AI_FILE_ORGANIZER\\test_dataset\\invoice_jan.pdf: pdf is not a function","service":"file-organizer-backend","timestamp":"2026-03-05 09:46:46"}
+{"level":"error","message":"Inference failed for holiday_pic.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:46:46"}
+{"level":"error","message":"Inference failed for tax_return.docx: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:46:46"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:46:46"}
+{"level":"error","message":"OCR/Text Extraction failed for G:\\pro\\file org copy\\MERN_AI_FILE_ORGANIZER\\test_dataset\\invoice_jan.pdf: pdf is not a function","service":"file-organizer-backend","timestamp":"2026-03-05 09:50:13"}
+{"level":"error","message":"Inference failed for holiday_pic.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:50:13"}
+{"level":"error","message":"Inference failed for tax_return.docx: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:50:14"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:50:14"}
+{"level":"error","message":"Inference failed for holiday_pic.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:55:40"}
+{"level":"error","message":"Inference failed for tax_return.docx: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:55:40"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:55:40"}
+{"level":"error","message":"Inference failed for holiday_pic.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:59:27"}
+{"level":"error","message":"Inference failed for tax_return.docx: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:59:27"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 09:59:27"}
+{"level":"error","message":"OCR/Text Extraction failed for G:\\pro\\file org copy\\MERN_AI_FILE_ORGANIZER\\test_dataset\\invoice_jan.pdf: pdf is not a function","service":"file-organizer-backend","timestamp":"2026-03-05 10:58:36"}
+{"level":"error","message":"Inference failed for holiday_pic.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 11:04:49"}
+{"level":"error","message":"Inference failed for script2.txt: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 11:04:49"}
+{"level":"error","message":"Inference failed for tax_return.docx: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 11:04:49"}
+{"level":"error","message":"Inference failed for unknown_file.xyz: Non tensor type is temporarily not supported.","service":"file-organizer-backend","timestamp":"2026-03-05 11:04:49"}

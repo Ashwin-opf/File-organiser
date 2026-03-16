@@ -1,0 +1,57 @@
+{
+  "name": "mern_ai_file_organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "build": {
+    "appId": "com.mernai.fileorganizer",
+    "mac": {
+      "category": "public.app-category.utilities",
+      "target": [
+        "dmg",
+        "zip"
+      ]
+    },
+    "win": {
+      "target": "nsis"
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "placeholder-owner",
+        "repo": "placeholder-repo"
+      }
+    ],
+    "files": [
+      "frontend/dist/**/*",
+      "main.js",
+      "preload.js",
+      "package.json"
+    ],
+    "extraResources": [
+      "backend/**",
+      {
+        "from": "ai-service/dist/app_ai",
+        "to": "ai-service"
+      }
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^39.2.7",
+    "electron-builder": "^26.0.12"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "electron-store": "^8.1.0",
+    "electron-updater": "^6.7.3"
+  }
+}

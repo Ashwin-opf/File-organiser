@@ -1,0 +1,22 @@
+ML Classifier loaded 59 examples.
+ * Serving Flask app 'app_ai'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+[2026-02-12 09:33:04,874] ERROR in app: Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/aadhi/Documents/file org/MERN_AI_FILE_ORGANIZER/ai-service/app_ai.py", line 286, in analyze
+    if new_name:
+       ^^^^^^^^
+UnboundLocalError: cannot access local variable 'new_name' where it is not associated with a value
+127.0.0.1 - - [12/Feb/2026 09:33:04] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
